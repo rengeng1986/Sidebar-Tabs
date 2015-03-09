@@ -147,7 +147,7 @@ body {
 	color: black;
 	margin-top: -7px;
 	padding-top: 8px;
-	background: linear-gradient(270deg, #eaeaea, #ffffff);
+	background: linear-gradient(180deg, #eaeaea, #ffffff);
 	background: -webkit-linear-gradient(270deg, #eaeaea, #ffffff);
 	background: -moz-linear-gradient(270deg, #eaeaea, #ffffff);
 	border-bottom: none;
