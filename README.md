@@ -8,3 +8,6 @@ To create script(whithout any library) for `tabs`:
 2. IF `url` have no `hashtag` - current `hashtag` should be (for example: `example.com/#additional`).
 3. IF `tab` switch - current `hashtag` should chenge.
 4. IF page load with `hashtag`- active `tab` should be  (for example: `example.com/#additional` - `Additional`).
+![Скриншот](Sidebar-tab-design-psd/Tab.jpg)
+
+![Скриншот](Sidebar-tab-design-psd/Tab-mobile.jpg)
