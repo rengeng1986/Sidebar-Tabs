@@ -1,6 +1,6 @@
 # Sidebar-Tab
 # Task:
-To create adaptive web page layout from .psd. The page should work in latest browsers since IE10.
+To create response page layout from .psd. The page should work in latest browsers since IE10.
 
 To create script(whithout any library) for `tabs`:
 
